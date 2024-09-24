@@ -2,7 +2,10 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import Home from "./components/Home";
 
+
 import Navbar from "./components/Navbar";
+
+
 import "./App.css";
 
 function generateRandomCharacter() {
@@ -77,12 +80,16 @@ const App = () => {
 
   return (
     <div className="flex flex-col h-screen">
+
       <Navbar
         isHomePage={isHomePage}
         handleToggle={handleToggle}
         searchTerm={searchTerm}
         setSearchTerm={setSearchTerm}
       />
+
+     
+
 
       <div className="bg-[#121212] bg-custom-gradient overflow-y-auto">
   
