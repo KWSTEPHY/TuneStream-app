@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+# TUNESTREAM
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Single Page Application Project
 
-## Available Scripts
+TuneStream is a single page application where you can play any music from your selected artist, playlist, track or album.
 
-In the project directory, you can run:
+## Getting Started
+To run the project:
+1. Clone the repository
+2. Install dependencies
+3. Start the server
+4. Open the project in your browser
 
-### `npm start`
+The page will reload when you make changes.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Live Link
 
-### `npm test`
+[Live Link](tune-stream-delta.vercel.app)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies Used
+* React.js
+* JavaScript
+* HTML
+* Tailwind CSS
+* Vercel
 
-### `npm run build`
+## Requirements Needed
+To contribute to this project you need to:
+* Have a Github account
+* Have a code editor
+* Have a browser
+* Have vercel for deployment
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Minimun Viable Product
+* A user can view the landing page
+* A user can view the music player
+* A user can play the music
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Key Features
+* Music library
+* Artist pages
+* Responsive design
+* Search and filtering
+* Social media integration
+* API integration that enhances the functionality of the website.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Objectives
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+The purpose of the music website is :
+* Promote and expose artists bands and record labels.
+* Function as a distribution platform allowing artist to distribute their music to a wide audience.
+* Foster a sense of community among the users especially those who share similar music taste.
+ * Enables users to discover new music and artists.
+ * Integrate API for functionality : [API:https://api.spotify.com/v1/] 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## API USED
 
-## Learn More
+[API:https://api.spotify.com/v1/] 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Authors
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Stephy Kamau
+Victor Maina
 
-### Analyzing the Bundle Size
+## Copyright and License Information
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+This project is licensed under the MIT License.
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+© 2024 TuneStream
